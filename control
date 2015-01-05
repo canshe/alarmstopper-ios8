@@ -1,0 +1,9 @@
+Package: com.canshe.alarmstopper
+Name: AlarmStopper
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Stop the alarm while not unlock the lock screen.
+Maintainer: canshe
+Author: canshe(canshe@126.com)
+Section: Tweaks
